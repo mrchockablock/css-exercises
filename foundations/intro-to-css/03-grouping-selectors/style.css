@@ -1,13 +1,14 @@
-button {
+.plain,
+.loud {
     font-size: 28px;
     font-family: Helvetica, "Times New Roman", sans-serif;
 }
 
-.click-me {
+.plain {
     background-color: black;
     color: #FFFFFF;
 }
 
-.no-click-me {
+.loud {
     background-color: yellow;
 }
